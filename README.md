@@ -1,2 +1,39 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NBafOLw1)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16908566&assignment_repo_type=AssignmentRepo)
+<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="800" height= '400' src="https://tomstu.art/images/compilers-for-free/second-futamura-projection.gif" alt=""></a></p>
+
+
+<div style="text-align: center;">
+  <h1> 💻 Compiladores 💻</h1> 
+</div>
+
+
+## Equipo Tech Team
+- Yonathan Berith Jaramillo Ramírez
+- Sarah Sophia Olivares García
+- García Hernández José Antonio
+
+## Overview 👁️
+
+Este repositorio contiene nuestra implementación de una Pila de Tablas de Símbolos y una Tabla de Tipos para un lenguaje de programación tipo C, siguiendo una Definición Dirigida por la Sintaxis (DDS) orientada a compiladores. Esta implementación permite manejar correctamente los diferentes ámbitos, verificar tipos y generar código intermedio según las reglas semánticas descritas.
+
+
+## Corre el código 🚙
+
+### Pre-requisitos
+- Tener instalado Java Development Kit (JDK) versión 8 o superior.
+- Herramienta de terminal para ejecutar comandos.
+
+
+### Instalación
+
+  ```sh
+    git clone https://github.com/Compiladores2025-1-7008/tabla-de-s-mbolos-y-de-tipos-the-tech-team
+
+    cd tabla-de-s-mbolos-y-de-tipos-the-tech-team
+  ```
+
+### Corre el programa 
+
+  ```sh
+    javac *.java
+    java Main
+  ```
